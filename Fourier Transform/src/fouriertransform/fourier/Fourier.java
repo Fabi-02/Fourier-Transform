@@ -2,6 +2,10 @@ package fouriertransform.fourier;
 
 import java.util.ArrayList;
 
+/**
+ * @author Fabian
+ */
+
 public class Fourier {
 
 	public static ArrayList<double[]> fourier(ArrayList<Double> data) {
